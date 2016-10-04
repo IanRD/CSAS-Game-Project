@@ -7,18 +7,18 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>252</bbox_left>
-  <bbox_right>771</bbox_right>
-  <bbox_top>126</bbox_top>
-  <bbox_bottom>866</bbox_bottom>
+  <bbox_left>14</bbox_left>
+  <bbox_right>43</bbox_right>
+  <bbox_top>7</bbox_top>
+  <bbox_bottom>48</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>1024</width>
-  <height>1024</height>
+  <width>58</width>
+  <height>57</height>
   <frames>
     <frame index="0">images\Taeyang_0.png</frame>
   </frames>

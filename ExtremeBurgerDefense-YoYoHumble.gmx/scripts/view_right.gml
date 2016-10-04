@@ -1,0 +1,1 @@
+return view_xview+view_wview

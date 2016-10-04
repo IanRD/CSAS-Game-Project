@@ -12,6 +12,7 @@
     <sound>sound\DrumTest</sound>
     <sound>sound\Fantastic_Baby</sound>
     <sound>sound\Blue</sound>
+    <sound>sound\sound7</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Taeyang</sprite>
@@ -44,6 +45,7 @@
   <objects name="objects">
     <object>objects\Main_Menu</object>
     <object>objects\TOP_Face</object>
+    <object>objects\object9</object>
     <object>objects\TAEYANG_FACE</object>
     <object>objects\DAESUNG_FACE</object>
     <object>objects\SEUNGRI_FACE</object>
@@ -51,10 +53,12 @@
     <object>objects\object1</object>
     <object>objects\GD_Face</object>
     <object>objects\object8</object>
+    <object>objects\obj_controller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
