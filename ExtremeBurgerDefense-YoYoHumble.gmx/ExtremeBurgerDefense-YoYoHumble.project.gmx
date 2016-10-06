@@ -75,6 +75,8 @@
     <sounds name="Interface">
       <sound>sound\snd_menuclick</sound>
     </sounds>
+    <sound>sound\Blue</sound>
+    <sound>sound\Fantastic_Baby</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Splash_Screen">
@@ -103,7 +105,10 @@
     <sprite>sprites\sp_shadow</sprite>
     <sprite>sprites\sp_tree</sprite>
     <sprite>sprites\sp_gold</sprite>
+    <sprite>sprites\sprite37</sprite>
+    <sprite>sprites\sprite36</sprite>
     <sprite>sprites\sp_silver</sprite>
+    <sprite>sprites\sprite38</sprite>
     <sprite>sprites\sp_circleping</sprite>
     <sprite>sprites\sp_bullet</sprite>
     <sprites name="Towers">
@@ -119,9 +124,13 @@
     </sprites>
     <sprites name="Bears">
       <sprite>sprites\sp_bear</sprite>
+      <sprite>sprites\sprite39</sprite>
       <sprite>sprites\sp_polarbear</sprite>
+      <sprite>sprites\sprite40</sprite>
       <sprite>sprites\sp_honeybear</sprite>
+      <sprite>sprites\sprite41</sprite>
       <sprite>sprites\sp_cybearg</sprite>
+      <sprite>sprites\sprite42</sprite>
     </sprites>
     <sprites name="Interface">
       <sprite>sprites\sp_upgradebutton</sprite>
@@ -133,6 +142,7 @@
     <background>background\bg_isotile</background>
     <background>background\bg_walkabletile</background>
     <background>background\bg_buildabletile</background>
+    <background>background\background4</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">

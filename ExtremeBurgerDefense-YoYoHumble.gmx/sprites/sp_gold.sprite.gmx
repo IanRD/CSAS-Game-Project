@@ -7,9 +7,9 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>1</bbox_left>
-  <bbox_right>56</bbox_right>
-  <bbox_top>1</bbox_top>
+  <bbox_left>8</bbox_left>
+  <bbox_right>57</bbox_right>
+  <bbox_top>4</bbox_top>
   <bbox_bottom>56</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
@@ -18,7 +18,7 @@
   </TextureGroups>
   <For3D>0</For3D>
   <width>58</width>
-  <height>58</height>
+  <height>57</height>
   <frames>
     <frame index="0">images\sp_gold_0.png</frame>
   </frames>
