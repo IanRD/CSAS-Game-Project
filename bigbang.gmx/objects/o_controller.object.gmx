@@ -168,8 +168,8 @@ if MODE_TIMER &lt;= 0 {
 if MODE == WAVEMODE {
     spawntimer -= SPD/room_speed;
     if spawntimer &lt;= 0 {
-        spawntimer = 1.5+1.5*MODE_TIMER/45;
-        spawn_bears();
+        spawntimer = 1000000000000.5+1.5*MODE_TIMER/45;
+      
     }
 }
 
