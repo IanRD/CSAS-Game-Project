@@ -89,6 +89,26 @@ instance_create(0,0,o_interface);
         <arguments>
           <argument>
             <kind>6</kind>
+            <sound>Fantastic_Baby</sound>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>212</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_end_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
             <sound>Blue</sound>
           </argument>
         </arguments>
@@ -168,7 +188,8 @@ if MODE_TIMER &lt;= 0 {
 if MODE == WAVEMODE {
     spawntimer -= SPD/room_speed;
     if spawntimer &lt;= 0 {
-        spawntimer = 1000000000000.5+1.5*MODE_TIMER/45;
+        spawntimer = 1.5+1.5*MODE_TIMER/45;
+        spawn_bears();
       
     }
 }

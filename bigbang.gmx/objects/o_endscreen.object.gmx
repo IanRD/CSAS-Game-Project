@@ -93,7 +93,7 @@ draw_text_ext_transformed_colour(view_wview*.5,view_hview*.5-200,'THE MINZYS ESC
 draw_text_transformed_colour(view_wview*.5,view_hview*.5-100,'But you defended it for ' + seconds_to_time_string(SCORE,true) + '...',scale*.7,scale*.7,0,c_yellow,c_yellow,c_yellow,c_yellow,1);
 draw_text_transformed_colour(view_wview*.5,view_hview*.5-70,"So you've got that going for you.",scale*.5,scale*.5,0,c_white,c_white,c_white,c_white,1);
 
-draw_text_transformed_colour(view_wview*.5,view_hview*.5,'BEST BURGER DEFENSE:',scale*.5,scale*.5,0,c_white,c_white,c_white,c_white,1);
+draw_text_transformed_colour(view_wview*.5,view_hview*.5,'BEST TIME:',scale*.5,scale*.5,0,c_white,c_white,c_white,c_white,1);
 draw_text_transformed_colour(view_wview*.5,view_hview*.5+40,seconds_to_time_string(BEST_SCORE,true),scale*.8,scale*.8,0,c_lime,c_lime,c_lime,c_lime,1);
 
 font_set(BASICFONT,fa_right,fa_top);
