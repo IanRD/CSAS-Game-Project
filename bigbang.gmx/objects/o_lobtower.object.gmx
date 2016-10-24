@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>event_inherited();
 attackrange = 250;
-dps = 100;
+dps = 200;
 
 shootcoolmax = 2;
 shootcool = 0;
