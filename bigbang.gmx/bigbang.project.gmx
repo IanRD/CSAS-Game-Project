@@ -104,6 +104,7 @@
     <sprite>sprites\sp_burger</sprite>
     <sprite>sprites\sp_shadow</sprite>
     <sprite>sprites\sp_tree</sprite>
+    <sprite>sprites\sprite43</sprite>
     <sprite>sprites\sp_gold</sprite>
     <sprite>sprites\sprite37</sprite>
     <sprite>sprites\sprite36</sprite>
@@ -122,7 +123,7 @@
       <sprite>sprites\sp_towerbutton</sprite>
       <sprite>sprites\sp_chop</sprite>
     </sprites>
-    <sprites name="Bears">
+    <sprites name="Minzys">
       <sprite>sprites\sp_bear</sprite>
       <sprite>sprites\sprite39</sprite>
       <sprite>sprites\sp_polarbear</sprite>
