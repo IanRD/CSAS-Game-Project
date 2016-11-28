@@ -30,7 +30,7 @@ attackrange = 150;
 
 shootcoolmax = 1.5;
 shootcool = shootcoolmax;
-dps = 50;
+dps = 65;
 yscale = 1;
 cryspos = 25;
 crystalsprite = sp_pulsetower_crystal;

@@ -77,6 +77,7 @@
     </sounds>
     <sound>sound\Blue</sound>
     <sound>sound\Fantastic_Baby</sound>
+    <sound>sound\Loser</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Splash_Screen">
@@ -104,7 +105,6 @@
     <sprite>sprites\sp_burger</sprite>
     <sprite>sprites\sp_shadow</sprite>
     <sprite>sprites\sp_tree</sprite>
-    <sprite>sprites\sprite43</sprite>
     <sprite>sprites\sp_gold</sprite>
     <sprite>sprites\sprite37</sprite>
     <sprite>sprites\sprite36</sprite>
@@ -124,14 +124,10 @@
       <sprite>sprites\sp_chop</sprite>
     </sprites>
     <sprites name="Minzys">
-      <sprite>sprites\sp_bear</sprite>
-      <sprite>sprites\sprite39</sprite>
-      <sprite>sprites\sp_polarbear</sprite>
-      <sprite>sprites\sprite40</sprite>
-      <sprite>sprites\sp_honeybear</sprite>
-      <sprite>sprites\sprite41</sprite>
-      <sprite>sprites\sp_cybearg</sprite>
-      <sprite>sprites\sprite42</sprite>
+      <sprite>sprites\sp_minzy</sprite>
+      <sprite>sprites\sp_dara</sprite>
+      <sprite>sprites\sp_CL</sprite>
+      <sprite>sprites\sp_BOM</sprite>
     </sprites>
     <sprites name="Interface">
       <sprite>sprites\sp_upgradebutton</sprite>
