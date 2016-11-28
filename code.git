@@ -1,0 +1,3 @@
+cd myproject
+git remote add origin ssh://ianrd@git.code.sf.net/p/bigbang-tower-defense/code
+git push -u origin master
