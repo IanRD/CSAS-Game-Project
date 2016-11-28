@@ -1,4 +1,4 @@
 # CSAS-Game-Project
 DEDICATED TO: YG Entertainment, BIGBANG
 
-Officially in Beta as of 10/31
+11/28 - Beta 3.0
